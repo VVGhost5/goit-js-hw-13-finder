@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luxplanjay/webpack-starter-kit.git"
+    "url": "https://github.com/VVGhost5/goit-js-hw-13-image-finder.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://github.com/luxplanjay/webpack-starter-kit#readme",
+  "homepage": "https://github.com/VVGhost5/goit-js-hw-13-image-finder",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
@@ -49,7 +49,11 @@
     "webpackbar": "^4.0.0"
   },
   "dependencies": {
+    "basiclightbox": "^5.0.3",
     "core-js": "^3.6.5",
-    "handlebars": "^4.7.6"
+    "debounce": "^1.2.0",
+    "handlebars": "^4.7.6",
+    "pnotify": "^5.1.2",
+    "spin.js": "^4.1.0"
   }
 }
